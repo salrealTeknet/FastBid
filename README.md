@@ -32,3 +32,4 @@ Fast Bid framework was adopted from existing online ecommerce platform as such i
 This  Platform is an Ecommerce platform basically built for manufacturers, wholesalers and retailers, with similar products and services to help sell fast as such there are a lot of existing platforms that cross reference this concept such as Nairaland.com, Facebook.com, Indeed.com, and nigeriapropertypro.ng.
 
 
+Project deployed Link :https://fast-bidd-d59ux4wpe-salrealteknet.vercel.app/
